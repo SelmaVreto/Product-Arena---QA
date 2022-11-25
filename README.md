@@ -1,2 +1,2 @@
-# Product-Arena---QA
+# Product-Arena-QA
 assigned material - study and processing
